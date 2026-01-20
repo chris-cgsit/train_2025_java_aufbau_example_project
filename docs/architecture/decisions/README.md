@@ -2,6 +2,8 @@
 
 This directory contains links to the Architecture Decision Records maintained in the main documentation folder.
 
+> **Important:** The actual ADR files are located in the repository root at `/documentation/07_decisions/`, not within the `/docs/` directory. This separation maintains the project's convention of keeping development process documentation separate from user-facing technical documentation.
+
 ## What are ADRs?
 
 Architecture Decision Records (ADRs) are documents that capture important architectural decisions made during the development of the project. Each ADR describes:
@@ -13,7 +15,7 @@ Architecture Decision Records (ADRs) are documents that capture important archit
 
 ## ADR List
 
-The actual ADR documents are maintained in the `/documentation/07_decisions/` directory:
+The actual ADR documents are maintained in the `/documentation/07_decisions/` directory (relative to repository root):
 
 ### Available ADRs
 
@@ -25,9 +27,11 @@ The actual ADR documents are maintained in the `/documentation/07_decisions/` di
 
 ## Browse All ADRs
 
-For a complete list of all architectural decisions, please visit:
+For a complete list of all architectural decisions, browse the directory:
 
-**[/documentation/07_decisions/](../../../documentation/07_decisions/)**
+**Repository Path:** `/documentation/07_decisions/`
+
+**From this location:** `../../../documentation/07_decisions/`
 
 ## Creating New ADRs
 

@@ -476,7 +476,7 @@ For API support and questions:
 
 - Review the [User Guide](../user-guide.md)
 - Check the [Setup Guide](../setup.md)
-- Consult the [Architecture Documentation](architecture/overview.md)
+- Consult the [Architecture Documentation](../architecture/overview.md)
 - Submit an issue on the project repository
 
 ## Changelog

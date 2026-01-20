@@ -330,10 +330,9 @@ mvn clean install
 
 If you encounter issues not covered here:
 
-1. Check [Troubleshooting Guide](../documentation/troubleshooting.md) (if exists)
-2. Review project [Issues](https://github.com/chris-cgsit/train_2025_java_aufbau_example_project/issues)
-3. Consult [Contributing Guide](../CONTRIBUTING.md)
-4. Contact project maintainers
+1. Review project [Issues](https://github.com/chris-cgsit/train_2025_java_aufbau_example_project/issues)
+2. Consult [Contributing Guide](../CONTRIBUTING.md)
+3. Contact project maintainers
 
 ## Next Steps
 

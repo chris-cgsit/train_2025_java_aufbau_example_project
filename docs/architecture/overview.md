@@ -234,10 +234,12 @@ For detailed architectural decisions, see:
 
 ### Architecture Decision Records (ADRs)
 
-The project maintains Architecture Decision Records in the `documentation/07_decisions/` directory:
+The project maintains Architecture Decision Records in the main `documentation/07_decisions/` directory (at repository root):
 
-- [ADR 001: Architecture Decision](../../documentation/07_decisions/adr_001_architecture_decision.md)
-- [ADR 002: Technology Selection](../../documentation/07_decisions/adr_002_technology_selection.md)
+> **Note:** The ADR files are located in the repository root at `/documentation/07_decisions/`, not within the `/docs/` directory. This follows the project's convention of keeping development process documentation separate from user-facing technical documentation.
+
+- [ADR 001: Architecture Decision](../../../documentation/07_decisions/adr_001_architecture_decision.md)
+- [ADR 002: Technology Selection](../../../documentation/07_decisions/adr_002_technology_selection.md)
 
 These records document:
 - Context and problem statement
