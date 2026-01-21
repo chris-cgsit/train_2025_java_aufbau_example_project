@@ -31,6 +31,15 @@ Wir arbeiten mit einer klaren Hierarchie aus **Features** (Ziele) und **Stories*
 * Erstelle für jedes Feature mehrere `User Stories`.
 * **Verknüpfung:** Kopiere die Issue-Nummer der Story (z. B. `#10`) in die Checkliste deines Feature-Issues. So siehst du dort den Fortschrittsbalken.
 
+### So erstellst du Sub-Tickets (Stories zu Features)
+GitHub verknüpft Tickets über die Raute-Referenz (`#`).
+
+1. Öffne dein **Feature-Issue**.
+2. Schreibe unter die Beschreibung eine Liste deiner Stories:
+   `- [ ] #IssueNummerDerStory`
+3. GitHub erstellt nun automatisch einen Fortschrittsbalken im Feature-Issue.
+4. Schließt du eine Story (Sub-Ticket), aktualisiert sich der Balken im Feature automatisch.
+
 ---
 
 ## 3. Sprint-Planung
